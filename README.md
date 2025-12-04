@@ -13,11 +13,10 @@ Busco mi **primera oportunidad profesional** como desarrolladora **backend** o *
 **Backend**
 - Java · Spring Boot · Maven  
 - JPA / Hibernate · PostgreSQL  
-- JAX-RS · Servicios REST  
-- SOAP · BPEL · XML / JSON  
+- JAX-RS · Servicios REST   
 
 **Frontend**
-- JavaScript · React · HTML · CSS
+- JavaScript · React · HTML · CSS (nociones básicas)
 
 **Otros**
 - Git · GitHub  
